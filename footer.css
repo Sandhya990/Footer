@@ -1,0 +1,42 @@
+*{
+    background-color: lavender;
+}
+.container{
+    width: 100%;
+    height: 250px;
+}
+.about{
+    width: 30%;
+    float: left;
+    padding-left: 20px;
+}
+.products{
+    width: 20%;
+    float: left;
+    padding-left: 20px;
+}
+.links{
+    width: 20%;
+    float: left;
+    padding-left: 20px;
+}
+.contact{
+    width: 20%;
+    float: left;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.register{
+    text-align: center;
+}
+button{
+    border: 2px solid red;
+    color: red;
+    font-size: 20px;
+}
+.images{
+    text-align: center;
+}
